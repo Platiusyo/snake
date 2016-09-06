@@ -3,3 +3,4 @@ C:\! Work files\snake\Snake\Snake\bin\Debug\Snake.exe
 C:\! Work files\snake\Snake\Snake\bin\Debug\Snake.pdb
 C:\! Work files\snake\Snake\Snake\obj\Debug\Snake.exe
 C:\! Work files\snake\Snake\Snake\obj\Debug\Snake.pdb
+C:\! Work files\snake\Snake\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache
