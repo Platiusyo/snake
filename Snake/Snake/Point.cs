@@ -56,6 +56,11 @@ namespace Snake
             Draw();
         }
 
+        internal bool IsHit(Point food)
+        {
+            return this.x == food.x && this.y == food.y;
+        }
+
         public void Draw()
         {
             Console.SetCursorPosition(x, y);
